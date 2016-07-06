@@ -1,5 +1,5 @@
-# Devoir2summer2016
+.Devoir2summer2016
 
-#user story
+#user stories
 
-#my first homework
+.my first homework
